@@ -1,6 +1,6 @@
 import { useRef, useState } from "react";
 import { motion, useMotionValue, useSpring, useTransform } from "framer-motion";
-import { Cpu, Zap, Radio, Code2 } from "lucide-react";
+import { Cpu, Radio, Code2 } from "lucide-react";
 
 export function Hero() {
   const coreSkills = ["VLSI Design", "Embedded C", "IoT", "Arduino", "Signal Processing", "PCB Design"];
@@ -115,7 +115,6 @@ export function Hero() {
               transition={{ duration: 0.5, delay: 0.15 }}
               className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-primary/10 border border-primary/20 text-primary font-mono text-xs font-medium"
             >
-              <Zap className="w-3.5 h-3.5" />
               <span>System Initialized</span>
             </motion.div>
 
