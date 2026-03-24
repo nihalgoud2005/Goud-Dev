@@ -42,7 +42,7 @@ export function Contact() {
     { icon: <Mail className="w-5 h-5" />, label: "Email", value: "nihalgoudgandhapu@gmail.com", href: "mailto:nihalgoudgandhapu@gmail.com" },
     { icon: <Phone className="w-5 h-5" />, label: "WhatsApp", value: "+91 891 951 3488", href: "https://wa.me/918919513488" },
     { icon: <Linkedin className="w-5 h-5" />, label: "LinkedIn", value: "Gandhapu Nihal Goud", href: "https://www.linkedin.com/in/gandhapu-nihal-goud-790255293/" },
-    { icon: <MapPin className="w-5 h-5" />, label: "Location", value: "BVRIT · Narsapur, AP", href: "#" },
+    { icon: <MapPin className="w-5 h-5" />, label: "Location", value: "BVRIT · Narsapur, Telangana", href: "#" },
   ];
 
   return (
