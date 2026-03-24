@@ -98,40 +98,29 @@ export function Hero() {
             initial={{ opacity: 0, scale: 0.8 }}
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.7, delay: 0.2 }}
-            className="flex-1 w-full max-w-md lg:max-w-none relative"
+            className="flex-shrink-0 relative flex flex-col items-center"
           >
-            <div className="relative aspect-square sm:aspect-[4/5] lg:aspect-square w-full">
-              {/* Cyberpunk Frame */}
-              <div className="absolute inset-0 border-2 border-primary/30 rounded-2xl transform rotate-3 scale-[1.02] transition-transform duration-500 hover:rotate-0 hover:scale-100" />
-              <div className="absolute inset-0 border-2 border-accent/30 rounded-2xl transform -rotate-3 scale-[1.02] transition-transform duration-500 hover:rotate-0 hover:scale-100" />
-              
-              <div className="absolute inset-0 bg-secondary rounded-2xl overflow-hidden border border-white/10 z-10 relative group">
+            <div className="relative w-44 h-44 sm:w-52 sm:h-52">
+              {/* Glowing ring */}
+              <div className="absolute inset-0 rounded-full border-2 border-primary/50 animate-pulse" />
+              <div className="absolute -inset-1 rounded-full border border-accent/30" />
+
+              <div className="w-full h-full rounded-full overflow-hidden border-2 border-primary/40 group">
                 <img
                   src={`${import.meta.env.BASE_URL}nihal-photo.png`}
                   alt="Gandhapu Nihal Goud"
-                  className="w-full h-full object-cover object-center mix-blend-luminosity opacity-80 group-hover:mix-blend-normal group-hover:opacity-100 transition-all duration-700 filter grayscale group-hover:grayscale-0"
+                  className="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500"
                 />
-                {/* Overlay Scanline effect */}
-                <div className="absolute inset-0 bg-[linear-gradient(transparent_50%,rgba(0,0,0,0.25)_50%)] bg-[length:100%_4px] pointer-events-none opacity-50 mix-blend-overlay" />
               </div>
 
-              {/* Decorative nodes */}
-              <div className="absolute -top-3 -right-3 w-6 h-6 border-t-2 border-r-2 border-primary z-20" />
-              <div className="absolute -bottom-3 -left-3 w-6 h-6 border-b-2 border-l-2 border-primary z-20" />
-              
               {/* Floating Badge */}
               <motion.div
-                animate={{ y: [0, -10, 0] }}
+                animate={{ y: [0, -6, 0] }}
                 transition={{ duration: 4, repeat: Infinity, ease: "easeInOut" }}
-                className="absolute -bottom-6 right-6 lg:-right-6 glass-panel px-4 py-3 rounded border border-primary/30 z-30 flex items-center gap-3 box-glow"
+                className="absolute -bottom-4 -right-4 glass-panel px-3 py-2 rounded border border-primary/30 z-30 flex items-center gap-2 box-glow"
               >
-                <div className="w-10 h-10 rounded-full bg-primary/20 flex items-center justify-center">
-                  <Radio className="w-5 h-5 text-primary" />
-                </div>
-                <div>
-                  <p className="text-xs font-mono text-muted-foreground uppercase">Status</p>
-                  <p className="text-sm font-bold text-foreground">Available for Work</p>
-                </div>
+                <Radio className="w-4 h-4 text-primary" />
+                <p className="text-xs font-bold text-foreground whitespace-nowrap">Available for Work</p>
               </motion.div>
             </div>
           </motion.div>
