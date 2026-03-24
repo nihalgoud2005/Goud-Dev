@@ -1,0 +1,10 @@
+packages:
+  "framer-motion": "For high-performance, complex scroll and entry animations essential for a premium portfolio feel"
+  "react-hook-form": "For robust contact form state management"
+  "@hookform/resolvers": "For integrating Zod validation with the contact form"
+  "zod": "For contact form validation schema"
+  "lucide-react": "For beautiful, consistent iconography throughout the portfolio"
+
+notes:
+  - The portfolio uses a static dark/cyberpunk theme; no backend is integrated, so the contact form simulates a submission.
+  - The profile photo is assumed to be available at /nihal-photo.png as per user instruction.

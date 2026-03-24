@@ -1,0 +1,115 @@
+Build me a complete, professional, deployment-ready HTML portfolio website
+for an ECE 3rd year student with the following details:
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PERSONAL INFORMATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Full Name         : Gandhapu Nihal Goud
+College           : BV Raju Institute of Technology (BVRIT), Narsapur
+Branch            : Electronics & Communication Engineering (ECE)
+Year              : 3rd Year (2023–2027)
+CGPA              : [e.g. 8.2 / 10]
+Email             : nihalgoudgandhapu@gmail.com
+WhatsApp          : +91 891 951 3488
+LinkedIn URL      : [paste your LinkedIn URL]
+GitHub URL        : [paste your GitHub URL, if any]
+Location          : Narsapur, Andhra Pradesh
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ABOUT ME
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Write 3–4 lines about yourself:
+[e.g. "I'm Nihal, an ECE student at BVRIT Narsapur passionate about
+embedded systems and IoT. I love building hardware projects that solve
+real-world problems. Currently exploring VLSI design and FPGA
+programming. Active member of E-Cell BVRIT."]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SKILLS & TECH STACK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Programming Languages : [e.g. Embedded C, Python, VHDL, Assembly]
+Microcontrollers      : [e.g. Arduino, ESP8266, 8051]
+Design & Simulation   : [e.g. MATLAB, Xilinx Vivado, EasyEDA, Multisim]
+Hardware Skills       : [e.g. PCB Design, Soldering, Oscilloscope]
+IoT & Connectivity    : [e.g. Blynk, ThingSpeak, MQTT, Bluetooth]
+Soft Skills           : [e.g. Project Management, Leadership, Teamwork]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PROJECTS (add as many as you have)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Project 1:
+  Name        : [e.g. Smart Home Automation System]
+  Description : [2–3 lines about what it does and what problem it solves]
+  Tech Used   : [e.g. Arduino, HC-05 Bluetooth, Relay Module, Embedded C]
+  Link        : [GitHub/demo link or leave blank]
+
+Project 2:
+  Name        : [e.g. Air Quality Monitoring Station]
+  Description :
+  Tech Used   :
+  Link        :
+
+Project 3:
+  Name        :
+  Description :
+  Tech Used   :
+  Link        :
+
+(Add more if needed)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+INTERNSHIPS / EXPERIENCE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Internship 1:
+  Company / Organisation : [e.g. ECIL Hyderabad / BSNL / any startup]
+  Role                   : [e.g. Embedded Systems Intern]
+  Duration               : [e.g. May 2024 – June 2024 (4 weeks)]
+  What you did           : [2 lines about your work and learnings]
+
+Internship 2 (if any):
+  Company :
+  Role    :
+  Duration:
+  Work    :
+
+(If no internship yet, write "None yet" — I'll handle it professionally)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CERTIFICATIONS & COURSES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+List each one:
+- [e.g. NPTEL – The Joy of Computing using Python | IIT Madras | 2024]
+- [e.g. Embedded Systems Design | Coursera | 2024]
+- [e.g. PCB Design Fundamentals | Udemy | 2023]
+- [e.g. Introduction to IoT | Cisco NetAcad | 2023]
+- [e.g. MATLAB Onramp | MathWorks | 2024]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ACHIEVEMENTS & AWARDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+- [e.g. 2nd Place – Circuit Debugging Contest, BVRIT Tech Fest 2024]
+- [e.g. Participant – Smart India Hackathon 2024]
+- [e.g. Presented paper at National Level Tech Symposium]
+- [e.g. Merit Scholarship – BVRIT 2023–24]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+EXTRA-CURRICULARS & CLUBS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+- [e.g. Active Member – E-Cell BVRIT (organised E-Summit 2025)]
+- [e.g. Member – IEEE Student Branch, BVRIT]
+- [e.g. NSS Volunteer – 2023–24]
+- [e.g. Participated in E-Merge 2025 – AdArena competition]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DESIGN PREFERENCES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Theme         : Dark (recommended) / Light / No preference
+Color Accent  : [e.g. Blue / Green / Orange / Surprise me]
+Style         : [e.g. Minimal & Clean / Bold & Tech / Elegant]
+Must Include  : Photo, Resume Download Button (yes/no),
+                Animated sections (yes/no)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHOTO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[Upload your photo along with this message]

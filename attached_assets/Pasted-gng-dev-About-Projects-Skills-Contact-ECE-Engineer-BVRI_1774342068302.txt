@@ -1,0 +1,143 @@
+gng.dev
+About
+Projects
+Skills
+Contact
+ECE Engineer · BVRIT · Narsapur
+
+Gandhapu
+Nihal Goud
+3rd year Electronics & Communication Engineering student building at the intersection of embedded systems, signal processing, and IoT. I turn circuits into solutions.
+
+VLSI Design
+Embedded C
+IoT
+Arduino
+Signal Processing
+PCB Design
+Get in Touch →
+// 01 — About
+Engineering at the
+hardware–software edge
+Gandhapu Nihal Goud
+Hi, I'm Nihal — an ECE undergrad at BV Raju Institute of Technology (BVRIT), Narsapur, graduating in 2027. My coursework spans analog circuits, digital electronics, microprocessors, and communication systems.
+
+Beyond textbooks, I'm fascinated by making hardware do things — automating homes, sensing the environment, processing signals in real time. I've worked on embedded projects using Arduino and 8051 microcontrollers, and I'm currently diving deeper into VLSI and FPGA workflows.
+
+I'm also an active member of E-Cell BVRIT, where I sharpen skills in project management, team leadership, and entrepreneurial thinking — because good engineers also need to know how to build things people actually want.
+
+3rd
+Year ECE
+5+
+ECE Projects
+2027
+Graduating
+// 02 — Projects
+Things I've built
+01 / Hardware
+Smart Home Automation System
+Designed a microcontroller-based home automation system to control appliances (lights, fans, AC) via smartphone using Bluetooth and IR communication. Integrated relay modules and wrote embedded firmware in C.
+
+Arduino UNO
+Embedded C
+Bluetooth HC-05
+Relay Module
+02 / IoT
+Air Quality Monitoring Station
+Built an IoT node to monitor real-time air quality (CO₂, CO, particulate matter) using MQ-series gas sensors. Data is logged to ThingSpeak cloud and alerts are sent via SMS when thresholds are exceeded.
+
+NodeMCU ESP8266
+MQ-135 Sensor
+ThingSpeak API
+IoT
+03 / Signal Processing
+Digital FIR Filter Design
+Designed and simulated a Finite Impulse Response (FIR) low-pass filter using the windowing method (Hamming window) in MATLAB. Analysed frequency response, phase response, and applied it to ECG signal noise removal.
+
+MATLAB
+DSP
+FIR Filter
+Signal Analysis
+04 / VLSI
+4-bit ALU on FPGA
+Implemented a 4-bit Arithmetic Logic Unit (ALU) supporting addition, subtraction, AND, OR, XOR, and shift operations using VHDL. Synthesised and verified on a Xilinx Spartan-7 FPGA board.
+
+VHDL
+Xilinx Vivado
+FPGA
+Digital Logic
+05 / Embedded
+8051 Traffic Light Controller
+Programmed an Intel 8051 microcontroller in Assembly language to simulate an adaptive traffic light control system with pedestrian crossing detection using IR sensors. Developed timing logic from scratch.
+
+8051 MCU
+Assembly
+IR Sensor
+Keil uVision
+06 / PCB
+Custom PCB for Sensor Hub
+Designed a 2-layer custom PCB for an IoT sensor hub aggregating temperature, humidity, and motion data. Used EasyEDA for schematic capture and PCB layout, followed by Gerber file generation and fabrication.
+
+EasyEDA
+PCB Layout
+Gerber Files
+Soldering
+// 03 — Skills
+Technical toolkit
+Microcontrollers & Embedded
+Arduino (UNO, Nano, Mega)
+ESP8266 / ESP32 (NodeMCU)
+Intel 8051 Microcontroller
+Embedded C / Assembly
+Keil uVision IDE
+VLSI & Digital Design
+VHDL / Verilog HDL
+Xilinx Vivado / ISE
+FPGA Programming
+Logic Circuit Design
+Timing & Simulation
+Signal & Communication
+MATLAB / Simulink
+DSP — FIR/IIR Filters
+Analog Circuit Analysis
+AM / FM Modulation
+Antenna Fundamentals
+PCB & Hardware Tools
+EasyEDA / KiCad
+Multisim (Circuit Sim)
+Oscilloscope & DMM
+Soldering & Prototyping
+Gerber File Export
+IoT & Connectivity
+ThingSpeak / Blynk
+MQTT Protocol
+Bluetooth & Wi-Fi Modules
+REST API Integration
+Sensor Interfacing
+Soft Skills
+Project Management
+Team Leadership
+Entrepreneurial Thinking
+Technical Documentation
+Event Organisation (E-Cell)
+// 04 — Contact
+Let's build something
+Open to collabs & internships
+Whether you have an ECE project in mind, want to collaborate on embedded systems or IoT, or have an internship opportunity — I'm all ears. Drop a message and I'll get back within 24 hours.
+
+✉
+nihalgoudgandhapu@gmail.com
+📱
++91 891 951 3488 (WhatsApp)
+in
+LinkedIn — Gandhapu Nihal Goud
+⚡
+BVRIT · Narsapur, Andhra Pradesh
+Name
+Your name
+Email
+your@email.com
+Message
+Tell me about your project or opportunity...
+Send Message →
+Designed & built with ♥ · Gandhapu Nihal Goud · ECE @ BVRIT · 2025
